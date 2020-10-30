@@ -1,0 +1,2 @@
+якщо є помилка
+в MySQL треба ввести SET GLOBAL time_zone = '+3:00';
